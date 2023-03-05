@@ -1,2 +1,2 @@
-# AtlantisCapes
-A cape area for all of the people playing Minecraft with me.
+# Website for Atlantis Capes
+A website for the minecraft group I run
